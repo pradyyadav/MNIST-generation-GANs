@@ -65,7 +65,7 @@ After the training process, the discriminator model is discarded as we are inter
 
   <p align="center"><img src = "https://github.com/pradyyadav/Images/blob/main/mnist-gans.gif?raw=true"</p>
   
-You can find the output of the GANs implementation from this repo on ![this link](https://www.youtube.com/watch?v=T2yQhFWpDYU).
+You can find the output of the GANs implementation from this repo on [this link](https://www.youtube.com/watch?v=T2yQhFWpDYU).
 
 ## Technologies
 
